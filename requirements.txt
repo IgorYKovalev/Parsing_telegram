@@ -1,0 +1,13 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+environ==1.0
+idna==3.6
+pyaes==1.6.1
+pyasn1==0.5.1
+pyTelegramBotAPI==4.14.1
+python-decouple==3.8
+requests==2.31.0
+rsa==4.9
+telebot==0.0.5
+Telethon==1.33.1
+urllib3==2.1.0
