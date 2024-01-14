@@ -1,5 +1,4 @@
-# Parsing_telegram
-## Парсим в Telegram сообщения из чатов
+# Парсим в Telegram сообщения из чатов
 
 ## Подключение 
 1. Клонируйте репозиторий и перейдите в него в командной строке: https://github.com/IgorYKovalev/Parsing_tg_bot.git
